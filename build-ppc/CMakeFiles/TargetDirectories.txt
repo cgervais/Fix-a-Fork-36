@@ -1,0 +1,4 @@
+/Users/cgervais/Downloads/Fix-a-Fork-36/build-ppc/CMakeFiles/fix-a-fork-carbon.dir
+/Users/cgervais/Downloads/Fix-a-Fork-36/build-ppc/CMakeFiles/fix-a-fork-carbon_APPL.dir
+/Users/cgervais/Downloads/Fix-a-Fork-36/build-ppc/CMakeFiles/edit_cache.dir
+/Users/cgervais/Downloads/Fix-a-Fork-36/build-ppc/CMakeFiles/rebuild_cache.dir

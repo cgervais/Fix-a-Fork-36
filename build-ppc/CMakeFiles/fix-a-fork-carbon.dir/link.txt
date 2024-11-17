@@ -1,0 +1,1 @@
+/Users/cgervais/Documents/Code/Retro68-build/toolchain/bin/powerpc-apple-macos-gcc "CMakeFiles/fix-a-fork-carbon.dir/main.c.obj" "CMakeFiles/fix-a-fork-carbon.dir/file_ext.c.obj" -o fix-a-fork-carbon.xcoff
